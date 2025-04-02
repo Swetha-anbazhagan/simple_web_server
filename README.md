@@ -61,7 +61,7 @@ Testing the webserver.
     </html>
 ```
 # OUTPUT:
-![alt text](<Screenshot 2025-03-21 215723.png>)
+![alt text](<Screenshot 2025-04-02 103858.png>)
 ![alt text](<Screenshot 2025-03-21 215910.png>)
 # RESULT:
 The program for implementing simple webserver is executed successfully.
