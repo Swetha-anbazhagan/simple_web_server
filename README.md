@@ -61,7 +61,8 @@ Testing the webserver.
     </html>
 ```
 # OUTPUT:
-![alt text](Terminal.png)
+![Terminal](https://github.com/user-attachments/assets/cd621e2a-460f-4245-990d-b75fe29c8e12)
+
 ![alt text](<Screenshot 2025-03-21 215910.png>)
 # RESULT:
 The program for implementing simple webserver is executed successfully.
